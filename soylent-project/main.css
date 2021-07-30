@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.banner-section {
+    
+}
+
+.banner {
+
+}
+
+.banner-content {
+    
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    
+}
+
+.container-left {
+    float: left;
+}
+
+.container-right {
+    float: right;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both
+}
